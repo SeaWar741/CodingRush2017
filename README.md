@@ -1,4 +1,4 @@
-# **CodingRush 2017**
+# **CodingRush 2018**
 
 CodingRush is a competitive programming competition in python 2.7
 
